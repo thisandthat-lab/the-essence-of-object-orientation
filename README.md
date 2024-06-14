@@ -19,7 +19,7 @@
 ## 스터디 멤버
 |<img src="https://avatars.githubusercontent.com/u/81912261?v=4" width="20%">|<img src="https://avatars.githubusercontent.com/u/132281360?v=4" width="20%">|<img src="https://avatars.githubusercontent.com/u/51814962?v=4" width="20%">|
 |:---:|:---:|:---:|
-|[ycheese](https://github.com/ycheese)|[HYEMSTER](https://github.com/HYEMSTER)|[behappyalltt](https://github.com/behappyalltt)|
+|[ycheese](https://github.com/ycheese)|[HYEMSTER](https://github.com/HYEMSTER)|[behappyalltt](https://github.com/behappyalltt/thisandthat-lab/tree/9840d479d72b0a26e1218c167df5f711c3e8b56e/%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8C%E1%85%B5%E1%84%92%E1%85%A3%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%89%E1%85%A1%E1%84%89%E1%85%B5%E1%86%AF%E1%84%80%E1%85%AA%E1%84%8B%E1%85%A9%E1%84%92%E1%85%A2)|
 
 ## 스터디 규칙
 - 스터디 시작 전 발표자, 서기를 각각 랜덤으로 뽑는다.
